@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.bio.link/uploads/profile_pictures/2025-01-05/YFUGcssN9f2FUIss61rFGx6BloYBPtvV.png" group-title="BY X fire Flix",X fire Flix
 https://raw.githubusercontent.com/HelloPeopleTv4you/live/refs/heads/main/byxfireflix/BY-X-FIRE-FLIX.mp4
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",BPL 2024 Bangla
-https://bdixtv24.site/tsports/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",BPL 2024
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live T10
-http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live
-https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live
-https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla" group-title="",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla" group-title="",Gazi TV
@@ -355,3 +343,13 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8d/34/ed/8d34ed24d428360010bac682ab6da9b5.jpg" group-title="Bangladesh", ion tv
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",BPL 2024 Bangla
+https://bdixtv24.site/tsports/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live T10
+http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",astro
+https://criccoder.pages.dev/astro.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports" group-title="",Live
+https://spstr.abntv.live/hls/psstream.m3u8
