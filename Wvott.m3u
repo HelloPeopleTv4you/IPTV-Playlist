@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="dd-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1923634031DD_NEWS__mob___384x512.webp" group-title="News" country="IN",DD News
+https://waves-ott-xfireflix.vercel.app/stream/10541/index.m3u8
+#EXTINF:-1 tvg-id="aaj-tak" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1114380993aaj_tak_mob___384x512.webp" group-title="News" country="IN",AAJ TAK
+https://waves-ott-xfireflix.vercel.app/stream/10608/index.m3u8
+#EXTINF:-1 tvg-id="abp-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1055584017ABP__mob___384x512.webp" group-title="News" country="IN",ABP NEWS
+https://waves-ott-xfireflix.vercel.app/stream/10549/index.m3u8
+#EXTINF:-1 tvg-id="bharat-24" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1335619945BHARAT__24___mob___384x512.webp" group-title="News" country="IN",Bharat 24
+https://waves-ott-xfireflix.vercel.app/stream/15306/index.m3u8
+#EXTINF:-1 tvg-id="dd-india" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/543398583DD_INDIA_Mob_384x512.webp" group-title="News" country="IN",DD INDIA
+https://waves-ott-xfireflix.vercel.app/stream/10539/index.m3u8
+#EXTINF:-1 tvg-id="good-news-today" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1579634869GNT__mob___384x512.webp" group-title="News" country="IN",GOOD NEWS TODAY
+https://waves-ott-xfireflix.vercel.app/stream/10546/index.m3u8
+#EXTINF:-1 tvg-id="ibc24" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1883776933IBC24___TV____720x960.webp" group-title="News" country="IN",IBC24
+https://waves-ott-xfireflix.vercel.app/stream/10594/index.m3u8
+#EXTINF:-1 tvg-id="india-today" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1245247643INDIA_TODAY_TV____384x512.webp" group-title="News" country="IN",INDIA TODAY
+https://waves-ott-xfireflix.vercel.app/stream/10547/index.m3u8
+#EXTINF:-1 tvg-id="india-tv-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1506549014India_TV_News____720x960.webp" group-title="News" country="IN",India TV News
+https://waves-ott-xfireflix.vercel.app/stream/14854/index.m3u8
+#EXTINF:-1 tvg-id="navbharat" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/410715399times_now_navbharat_____720x960.webp" group-title="News" country="IN",NAVBHARAT
+https://waves-ott-xfireflix.vercel.app/stream/10585/index.m3u8
+#EXTINF:-1 tvg-id="ndtv-india" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1172695391NDTV_INDIA_TVW_720x960.webp" group-title="News" country="IN",NDTV INDIA
+https://waves-ott-xfireflix.vercel.app/stream/10593/index.m3u8
+#EXTINF:-1 tvg-id="news-nation" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1699305729news_nation___mob___384x512.webp" group-title="News" country="IN",NEWS NATION
+https://waves-ott-xfireflix.vercel.app/stream/10552/index.m3u8
+#EXTINF:-1 tvg-id="news-18-india" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/68286256NEWS_18__mob___384x512.webp" group-title="News" country="IN",NEWS 18 INDIA
+https://waves-ott-xfireflix.vercel.app/stream/10590/index.m3u8
+#EXTINF:-1 tvg-id="news-24-think-first" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1525787808NEWS_24___mob___384x512.webp" group-title="News" country="IN",NEWS 24 THINK FIRST
+https://waves-ott-xfireflix.vercel.app/stream/10554/index.m3u8
+#EXTINF:-1 tvg-id="r-republic" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/482795018R_REPUBLIC__mob___384x512.webp" group-title="News" country="IN",R Republic
+https://waves-ott-xfireflix.vercel.app/stream/10551/index.m3u8
+#EXTINF:-1 tvg-id="raj-tv" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/336749630RAJ_TV____720x960.webp" group-title="News" country="IN",RAJ TV
+https://waves-ott-xfireflix.vercel.app/stream/10645/index.m3u8
+#EXTINF:-1 tvg-id="republic-tv-bharat" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/93249253R_bharat____TV___mob___384x512.webp" group-title="News" country="IN",Republic TV Bharat
+https://waves-ott-xfireflix.vercel.app/stream/10827/index.m3u8
+#EXTINF:-1 tvg-id="sansad-tv-1" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/737787656sansad_tv_1_HD___384x512.webp" group-title="News" country="IN",SANSAD TV 1
+https://waves-ott-xfireflix.vercel.app/stream/11022/index.m3u8
+#EXTINF:-1 tvg-id="sansad-tv-2" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/952763056sansad_tv_2HD___384x512.webp" group-title="News" country="IN",SANSAD TV 2
+https://waves-ott-xfireflix.vercel.app/stream/11021/index.m3u8
+#EXTINF:-1 tvg-id="tv9-bharatvarsh" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1787540310TV_9__mob___384x512.webp" group-title="News" country="IN",TV9 BHARATVARSH
+https://waves-ott-xfireflix.vercel.app/stream/10595/index.m3u8
+#EXTINF:-1 tvg-id="zee-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2121812114ZEE_NEWS__720x960.webp" group-title="News" country="IN",Zee News
+https://waves-ott-xfireflix.vercel.app/stream/14582/index.m3u8
+#EXTINF:-1 tvg-id="abzy-dhakad" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1200604348ABZY_DHAKAD_TV____720x960.webp" group-title="Entertainment" country="IN",ABZY DHAKAD
+https://waves-ott-xfireflix.vercel.app/stream/10648/index.m3u8
+#EXTINF:-1 tvg-id="abzy-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/434886526ABZY_Movies__TV____720x960.webp" group-title="Entertainment" country="IN",ABZY Movies
+https://waves-ott-xfireflix.vercel.app/stream/10647/index.m3u8
+#EXTINF:-1 tvg-id="b4u-bhojpuri" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1075363785B4UBHOJPURI_TVSETS_TVW_720x960.webp" group-title="Entertainment" country="IN",B4U Bhojpuri
+https://waves-ott-xfireflix.vercel.app/stream/10543/index.m3u8
+#EXTINF:-1 tvg-id="b4u-kadak" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1769340356KADAK_TVSETS_TVW_720x960.webp" group-title="Entertainment" country="IN",B4U KADAK
+https://waves-ott-xfireflix.vercel.app/stream/10544/index.m3u8
+#EXTINF:-1 tvg-id="b4u-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1487466742B4UMOVIES_TVSETS_TVW_720x960.webp" group-title="Entertainment" country="IN",B4U Movies
+https://waves-ott-xfireflix.vercel.app/stream/10548/index.m3u8
+#EXTINF:-1 tvg-id="dabanng" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1638698552dabangTV___mob___384x512.webp" group-title="Entertainment" country="IN",DABANNG
+https://waves-ott-xfireflix.vercel.app/stream/10598/index.m3u8
+#EXTINF:-1 tvg-id="dd-bharati" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/261265808DD_BHARTI_______720x960.webp" group-title="Entertainment" country="IN",DD Bharati
+https://waves-ott-xfireflix.vercel.app/stream/10542/index.m3u8
+#EXTINF:-1 tvg-id="dd-national-hd" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/310398427DD_national__mob___384x512.webp" group-title="Entertainment" country="IN",DD National HD
+https://waves-ott-xfireflix.vercel.app/stream/10574/index.m3u8
+#EXTINF:-1 tvg-id="e24" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1715950932E24_TVW_720x960.webp" group-title="Entertainment" country="IN",E24
+https://waves-ott-xfireflix.vercel.app/stream/10596/index.m3u8
+#EXTINF:-1 tvg-id="gangaur" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp" group-title="Entertainment" country="IN",Gangaur
+https://waves-ott-xfireflix.vercel.app/stream/10932/index.m3u8
+#EXTINF:-1 tvg-id="maiboli" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2121823942MAIBOLI_TV____720x960.webp" group-title="Entertainment" country="IN",MAIBOLI
+https://waves-ott-xfireflix.vercel.app/stream/10649/index.m3u8
+#EXTINF:-1 tvg-id="pitaara-movies" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOVIES_TVSETS_TVW_720x960.webp" group-title="Entertainment" country="IN",PITAARA MOVIES
+https://waves-ott-xfireflix.vercel.app/stream/10553/index.m3u8
+#EXTINF:-1 tvg-id="ptc-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp" group-title="Entertainment" country="IN",PTC PUNJABI
+https://waves-ott-xfireflix.vercel.app/stream/10556/index.m3u8
+#EXTINF:-1 tvg-id="ptc-punjabi-gold" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1276523660PTCPUNJABIGOLD_TVSETS_TVW_720x960.webp" group-title="Entertainment" country="IN",PTC PUNJABI GOLD
+https://waves-ott-xfireflix.vercel.app/stream/10555/index.m3u8
+#EXTINF:-1 tvg-id="b4u-music" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1133093497B4U_Music_TVW_720x960.webp" group-title="Music" country="IN",B4U Music
+https://waves-ott-xfireflix.vercel.app/stream/10545/index.m3u8
+#EXTINF:-1 tvg-id="masti" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1289247853MASTI_TV___mob___384x512.webp" group-title="Music" country="IN",MASTI
+https://waves-ott-xfireflix.vercel.app/stream/10651/index.m3u8
+#EXTINF:-1 tvg-id="ptc-music" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1674728606PTC_MUSIC______720x960.webp" group-title="Music" country="IN",PTC MUSIC
+https://waves-ott-xfireflix.vercel.app/stream/15037/index.m3u8
+#EXTINF:-1 tvg-id="9x-jalwa" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/7812127779x_jalwa__mob___384x512.webp" group-title="Music" country="IN",9X JALWA
+https://waves-ott-xfireflix.vercel.app/stream/10605/index.m3u8
+#EXTINF:-1 tvg-id="9x-jhakaas" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/18845391659x_JHAKAAS__mob___384x512.webp" group-title="Music" country="IN",9X JHAKAAS
+https://waves-ott-xfireflix.vercel.app/stream/10606/index.m3u8
+#EXTINF:-1 tvg-id="9x-tashan" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan__mob___384x512.webp" group-title="Music" country="IN",9X TASHAN
+https://waves-ott-xfireflix.vercel.app/stream/10607/index.m3u8
+#EXTINF:-1 tvg-id="9xm" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp" group-title="Music" country="IN",9XM
+https://waves-ott-xfireflix.vercel.app/stream/10591/index.m3u8
+#EXTINF:-1 tvg-id="divya" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1014643382DIVYA_TVSETS_TVW_720x960.webp" group-title="Spiritual" country="IN",DIVYA
+https://waves-ott-xfireflix.vercel.app/stream/10550/index.m3u8
+#EXTINF:-1 tvg-id="sanskar" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1596768461sanskar__mob___384x512.webp" group-title="Spiritual" country="IN",Sanskar
+https://waves-ott-xfireflix.vercel.app/stream/10610/index.m3u8
+#EXTINF:-1 tvg-id="satsang" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1682838178satsang______720x960.webp" group-title="Spiritual" country="IN",SATSANG
+https://waves-ott-xfireflix.vercel.app/stream/10611/index.m3u8
+#EXTINF:-1 tvg-id="dd-national-hd" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/310398427DD_national__mob___384x512.webp" group-title="DD National" country="IN",DD National HD
+https://waves-ott-xfireflix.vercel.app/stream/10574/index.m3u8
+#EXTINF:-1 tvg-id="dd-news" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1923634031DD_NEWS__mob___384x512.webp" group-title="DD National" country="IN",DD News
+https://waves-ott-xfireflix.vercel.app/stream/10541/index.m3u8
+#EXTINF:-1 tvg-id="dd-india" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/543398583DD_INDIA_Mob_384x512.webp" group-title="DD National" country="IN",DD INDIA
+https://waves-ott-xfireflix.vercel.app/stream/10539/index.m3u8
+#EXTINF:-1 tvg-id="dd-bharati" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/261265808DD_BHARTI_______720x960.webp" group-title="DD National" country="IN",DD Bharati
+https://waves-ott-xfireflix.vercel.app/stream/10542/index.m3u8
+#EXTINF:-1 tvg-id="dd-sports" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/978964831DD_SPORTS__mob___384x512.webp" group-title="DD National" country="IN",DD SPORTS
+https://waves-ott-xfireflix.vercel.app/stream/10569/index.m3u8
+#EXTINF:-1 tvg-id="dd-kisan" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/2138456152KISSAN_TVSETS_TVW_720x960.webp" group-title="DD National" country="IN",DD KISAN
+https://waves-ott-xfireflix.vercel.app/stream/10540/index.m3u8
+#EXTINF:-1 tvg-id="dd-urdu" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1423354137DD_URDU______720x960.webp" group-title="DD National" country="IN",DD URDU
+https://waves-ott-xfireflix.vercel.app/stream/10570/index.m3u8
+#EXTINF:-1 tvg-id="dd-madhyapradesh" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/584732940DD_MADHYAPRADESH__TV___mob___384x512.webp" group-title="DD Regional" country="IN",DD MADHYAPRADESH
+https://waves-ott-xfireflix.vercel.app/stream/10583/index.m3u8
+#EXTINF:-1 tvg-id="dd-arunprabha" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/362822384DD_ARUNPRABHA___mob___384x512.webp" group-title="DD Regional" country="IN",DD Arunprabha
+https://waves-ott-xfireflix.vercel.app/stream/10557/index.m3u8
+#EXTINF:-1 tvg-id="dd-yadgiri" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/319452459DD_YADGIRI_____TV____720x960.webp" group-title="DD Regional" country="IN",DD YADGIRI
+https://waves-ott-xfireflix.vercel.app/stream/10579/index.m3u8
+#EXTINF:-1 tvg-id="dd-goa" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1266576310DD_GOA_____mob___384x512.webp" group-title="DD Regional" country="IN",DD GOA
+https://waves-ott-xfireflix.vercel.app/stream/10592/index.m3u8
+#EXTINF:-1 tvg-id="dd-haryana" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/127887391DD_HARYANA__TV___mob___384x512.webp" group-title="DD Regional" country="IN",DD HARYANA
+https://waves-ott-xfireflix.vercel.app/stream/10580/index.m3u8
+#EXTINF:-1 tvg-id="dd-rajasthan" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1424331982DD_RAJASTHAN____TV___mob___384x512.webp" group-title="DD Regional" country="IN",DD Rajasthan
+https://waves-ott-xfireflix.vercel.app/stream/10835/index.m3u8
+#EXTINF:-1 tvg-id="dd-assam" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/23822241dd_assam__720x960.webp" group-title="DD Regional" country="IN",DD ASSAM
+https://waves-ott-xfireflix.vercel.app/stream/10604/index.m3u8
+#EXTINF:-1 tvg-id="dd-nagaland" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1288453584DD_nagaland__mob___384x512.webp" group-title="DD Regional" country="IN",DD NAGALAND
+https://waves-ott-xfireflix.vercel.app/stream/10603/index.m3u8
+#EXTINF:-1 tvg-id="dd-saptagiri" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1184556042dd_saptagiri___384x512.webp" group-title="DD Regional" country="IN",DD SAPTAGIRI
+https://waves-ott-xfireflix.vercel.app/stream/10600/index.m3u8
+#EXTINF:-1 tvg-id="dd-meghalaya" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1984938843dd_meghalaya___384x512.webp" group-title="DD Regional" country="IN",DD MEGHALAYA
+https://waves-ott-xfireflix.vercel.app/stream/10599/index.m3u8
+#EXTINF:-1 tvg-id="dd-jharkhand" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1262770871DD_jharkhand____TV___mob___384x512.webp" group-title="DD Regional" country="IN",DD Jharkhand
+https://waves-ott-xfireflix.vercel.app/stream/10589/index.m3u8
+#EXTINF:-1 tvg-id="dd-bihar" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1707481475DD_BIHAR__mob___384x512.webp" group-title="DD Regional" country="IN",DD BIHAR
+https://waves-ott-xfireflix.vercel.app/stream/10588/index.m3u8
+#EXTINF:-1 tvg-id="dd-up" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1433342199DD_uttar_pradesh_mob___384x512.webp" group-title="DD Regional" country="IN",DD UP
+https://waves-ott-xfireflix.vercel.app/stream/10587/index.m3u8
+#EXTINF:-1 tvg-id="dd-himanchal" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/780314109DD_HIMACHAL__mob___384x512.webp" group-title="DD Regional" country="IN",DD HIMANCHAL
+https://waves-ott-xfireflix.vercel.app/stream/10586/index.m3u8
+#EXTINF:-1 tvg-id="dd-bangla" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/547734520DD_BANGLA_TVSETS_TVW_720x960.webp" group-title="DD Regional" country="IN",DD BANGLA
+https://waves-ott-xfireflix.vercel.app/stream/10558/index.m3u8
+#EXTINF:-1 tvg-id="dd-uttrakhand" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/251956268DD_uttarakhand___720x960.webp" group-title="DD Regional" country="IN",DD UTTRAKHAND
+https://waves-ott-xfireflix.vercel.app/stream/10581/index.m3u8
+#EXTINF:-1 tvg-id="dd-tripura" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/17163527DD_TRIPURA____720x960.webp" group-title="DD Regional" country="IN",DD Tripura
+https://waves-ott-xfireflix.vercel.app/stream/10578/index.m3u8
+#EXTINF:-1 tvg-id="dd-malayalam" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1443058650DD_malayalam_______384x512.webp" group-title="DD Regional" country="IN",DD MALAYALAM
+https://waves-ott-xfireflix.vercel.app/stream/10582/index.m3u8
+#EXTINF:-1 tvg-id="dd-shayadri" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/415330353DD_SHAYADRI_____TV____720x960.webp" group-title="DD Regional" country="IN",DD SHAYADRI
+https://waves-ott-xfireflix.vercel.app/stream/10576/index.m3u8
+#EXTINF:-1 tvg-id="dd-punjabi" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1001788609DD_punjabi_TVSETS_TVW_720x960.webp" group-title="DD Regional" country="IN",DD PUNJABI
+https://waves-ott-xfireflix.vercel.app/stream/10575/index.m3u8
+#EXTINF:-1 tvg-id="dd-girnar" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/868969999DD_girnar________384x512.webp" group-title="DD Regional" country="IN",DD GIRNAR
+https://waves-ott-xfireflix.vercel.app/stream/10573/index.m3u8
+#EXTINF:-1 tvg-id="dd-chhattisgarh" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/518137715DD_CHHATTISGARH___mob___384x512.webp" group-title="DD Regional" country="IN",DD CHHATTISGARH
+https://waves-ott-xfireflix.vercel.app/stream/10571/index.m3u8
+#EXTINF:-1 tvg-id="dd-chandana" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/562233073DD_CHANDANA___TV____720x960.webp" group-title="DD Regional" country="IN",DD CHANDANA
+https://waves-ott-xfireflix.vercel.app/stream/10601/index.m3u8
+#EXTINF:-1 tvg-id="dd-tamil" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/351929532DD_TAMIL____TV____720x960.webp" group-title="DD Regional" country="IN",DD TAMIL
+https://waves-ott-xfireflix.vercel.app/stream/10577/index.m3u8
+#EXTINF:-1 tvg-id="dd-odia" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1279237758DD_ODIA____mob___384x512.webp" group-title="DD Regional" country="IN",DD ODIA
+https://waves-ott-xfireflix.vercel.app/stream/10562/index.m3u8
+#EXTINF:-1 tvg-id="dd-mizoram" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/92830746DD_MIZORAM____mob___384x512.webp" group-title="DD Regional" country="IN",DD MIZORAM
+https://waves-ott-xfireflix.vercel.app/stream/10561/index.m3u8
+#EXTINF:-1 tvg-id="dd-manipur" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/746617482DD_MANIPUR____mob___384x512.webp" group-title="DD Regional" country="IN",DD MANIPUR
+https://waves-ott-xfireflix.vercel.app/stream/10560/index.m3u8
+#EXTINF:-1 tvg-id="dd-kashir" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1742238721DD_kashir_____mob___384x512.webp" group-title="DD Regional" country="IN",DD KASHIR
+https://waves-ott-xfireflix.vercel.app/stream/10559/index.m3u8
